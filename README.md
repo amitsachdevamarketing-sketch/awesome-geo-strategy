@@ -191,6 +191,7 @@ As AI-powered search transforms how users discover information, optimizing conte
 * [The Ultimate GEO Checklist](https://geo.tenten.co/) - (Tenten) An actionable checklist for optimizing websites for generative search engines.
 * [Traditional SEO vs. Generative Engine Optimization (GEO)](https://tenten.co/learning/seo-vs-geo/) - (Tenten) A detailed comparison of strategies, KPIs, and outcomes for SEO and GEO.
 * [How to Optimize Content for AI Search Engines - Semrush](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/) - 7-step optimization guide.
+* [Pro AI Search](https://proaisearch.com) - India's first dedicated resource for GEO, AEO, and LLM SEO. Practitioner guides for businesses on ranking in ChatGPT search, Google AI Overviews, and Perplexity.
 * [Answer Engine Optimization (AEO) Guide - Amsive](https://www.amsive.com/insights/seo/answer-engine-optimization-aeo-evolving-your-seo-strategy-in-the-age-of-ai-search/) - Comprehensive AEO guide for AI search visibility.
 
 ### Platform-Specific Guides
